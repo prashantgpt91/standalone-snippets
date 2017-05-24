@@ -16,4 +16,5 @@ This repo will contain standalone snippets.
  7. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/download_using_url.py) snippet will download the file, given a URL.
  
  8. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/count_objects_in_bucket.py) snippet will count total objects in S3 bucket.
- 
+
+ 9. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/rename-files-bulk-serially.py) snippet will rename files in a particular folder serially starting from `1`. 
