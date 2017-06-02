@@ -1,4 +1,4 @@
-# Standalone-scripts
+# Standalone-snippets
 This repo will contain standalone snippets.
 
 
