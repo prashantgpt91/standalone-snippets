@@ -22,4 +22,4 @@ This repo will contain standalone snippets.
 
  9. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/rename-files-bulk-serially.py) snippet will rename files in a particular folder serially starting from `1`. 
 
- 10. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/delete-all-files-from-slack.py) snippet will delete all the files from your slack team account. Good for free users, who usually get file storage warning.
+ 10. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/delete-all-files-from-slack.py) snippet will delete all the files from your slack team account. Good for free users, who usually get file storage warning. [Get Slack Legacy token from here](https://api.slack.com/custom-integrations/legacy-tokens).
