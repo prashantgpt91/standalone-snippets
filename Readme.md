@@ -2,7 +2,7 @@
 This repo will contain standalone snippets.
 
 
-> `Total count of snippets | 10`
+> `Total count of snippets | 11`
 
  1. [This](https://raw.githubusercontent.com/x0v/Random-stuff/master/gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
  
@@ -24,6 +24,12 @@ This repo will contain standalone snippets.
 
  10. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/delete-all-files-from-slack.py) snippet will delete all the files from your slack team account. Good for free users, who usually get file storage warning. [Get Slack Legacy token from here](https://api.slack.com/custom-integrations/legacy-tokens).
  
+ 11. [This]() snippet will get the file size before downloading it. Run it like this `python snippet.py url`
+
+
+
+
+
  
  ## Meta
 
