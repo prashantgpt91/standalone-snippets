@@ -24,7 +24,7 @@ This repo will contain standalone snippets.
 
  10. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/delete-all-files-from-slack.py) snippet will delete all the files from your slack team account. Good for free users, who usually get file storage warning. [Get Slack Legacy token from here](https://api.slack.com/custom-integrations/legacy-tokens).
  
- 11. [This]() snippet will get the file size before downloading it. Run it like this `python snippet.py url`
+ 11. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/get-file-size-before-download.py) snippet will get the file size before downloading it. Run it like this `python snippet.py url`
 
 
 
