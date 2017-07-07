@@ -2,7 +2,7 @@
 This repo will contain standalone snippets.
 
 
-> `Total count of snippets | 12`
+> `Total count of snippets | 13`
 
  1. [This](https://raw.githubusercontent.com/x0v/Random-stuff/master/gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
  
@@ -27,6 +27,8 @@ This repo will contain standalone snippets.
  11. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/get-file-size-before-download.py) snippet will get the file size before downloading it. Run it like this `python snippet.py url`
  
  12. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/convert-text-to-list.py) snippet will convert newline separated entries into python list.
+ 
+ 13. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/convert-list-to-json.py) snippet will convert list to json format, assuming key values must be suuplied to script.
 
 
 
