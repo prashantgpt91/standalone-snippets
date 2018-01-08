@@ -30,7 +30,7 @@ This repo will contain standalone snippets.
  
  13. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/convert-list-to-json.py) snippet will convert list to json format, assuming key values must be suuplied to script.
 
- 14. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/fetch-aws-complete-biodata.py) will fetch complete details of your aws account in the form of json.
+ 14. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/fetch-aws-complete-biodata.py) will fetch complete details of your aws account in the form of json. To run the script, simply install `awscli` using `pip install awscli` in a virtualenv and run `aws configure`. To see the list of regions go [here](https://docs.aws.amazon.com/general/latest/gr/rande.html#apigateway_region). To get access key and access secret key go [here](https://console.aws.amazon.com/iam/home?region=us-east-2#/users), select the user against which has permission to access all services, issue a key against it and use in `aws configure` command.
 
 
 
