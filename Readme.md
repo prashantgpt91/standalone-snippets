@@ -2,7 +2,7 @@
 This repo will contain standalone snippets.
 
 
-> `Total count of snippets | 13`
+> `Total count of snippets | 14`
 
  1. [This](https://raw.githubusercontent.com/x0v/Random-stuff/master/gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
  
