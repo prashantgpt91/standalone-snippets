@@ -6,17 +6,17 @@ This repo will contain standalone snippets.
 
  1. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/1-gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
  
- 2. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/2-git-clone-public-repo.py) snippet uses [github access token](https://github.com/settings/tokens) and downloads at once all public repositories from any github account.
+ 2. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/2-git-clone-public-repo-from-particular-user.py) snippet uses [github access token](https://github.com/settings/tokens) and downloads at once all public repositories from any github account.
  
  3. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/3-convert-epoch-time-to-date-time.py) snippet will take epoch time as an input and datetime as output. Read more about epoch time [here](https://en.wikipedia.org/wiki/Unix_time)
 
- 4. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/4-s3_latest_file.py) snippet will download the latest added/modified file in a S3 bucket.
+ 4. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/4-s3-latest-file.py) snippet will download the latest added/modified file in a S3 bucket.
  
- 5. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/5-s3_download_all.py) snippet will download all files from a given S3 bucket folder.
+ 5. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/5-s3-download-all.py) snippet will download all files from a given S3 bucket folder.
  
- 6. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/6-get_latest_file.py) snippet will return file name of the most recent file.
+ 6. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/6-get-latest-file.py) snippet will return file name of the most recent file.
  
- 7. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/7-download_using_url.py) snippet will download the file, given a URL.
+ 7. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/7-download-using-url.py) snippet will download the file, given a URL.
  
  8. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/8-count-objects-in-bucket.py) snippet will count total objects in S3 bucket.
 
