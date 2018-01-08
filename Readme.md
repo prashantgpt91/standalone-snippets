@@ -30,6 +30,8 @@ This repo will contain standalone snippets.
  
  13. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/convert-list-to-json.py) snippet will convert list to json format, assuming key values must be suuplied to script.
 
+ 14. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/fetch-aws-complete-biodata.py) will fetch complete details of your aws account in the form of json.
+
 
 
 
