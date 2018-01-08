@@ -4,9 +4,9 @@ This repo will contain standalone snippets.
 
 > `Total count of snippets | 14`
 
- 1. [This](https://raw.githubusercontent.com/x0v/snippets/master/gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
+ 1. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
  
- 2. [This](https://raw.githubusercontent.com/x0v/snippets/master/git-clone-public-repo.py) snippet uses [github access token](https://github.com/settings/tokens) and downloads at once all public repositories from any github account.
+ 2. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/git-clone-public-repo.py) snippet uses [github access token](https://github.com/settings/tokens) and downloads at once all public repositories from any github account.
  
  3. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/convert-epoch-time-to-date-time.py) snippet will take epoch time as an input and datetime as output. Read more about epoch time [here](https://en.wikipedia.org/wiki/Unix_time)
 
@@ -20,9 +20,9 @@ This repo will contain standalone snippets.
  
  8. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/count-objects-in-bucket.py) snippet will count total objects in S3 bucket.
 
- 9. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/rename-files-bulk-serially.py) snippet will rename files in a particular folder serially starting from `1`. 
+ 9. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/rename-files-bulk-serially.py) snippet will rename files in a particular folder serially starting from `1`. 
 
- 10. [This](https://raw.githubusercontent.com/x0v/standalone-scripts/master/delete-all-files-from-slack.py) snippet will delete all the files from your slack team account. Good for free users, who usually get file storage warning. [Get Slack Legacy token from here](https://api.slack.com/custom-integrations/legacy-tokens).
+ 10. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/delete-all-files-from-slack.py) snippet will delete all the files from your slack team account. Good for free users, who usually get file storage warning. [Get Slack Legacy token from here](https://api.slack.com/custom-integrations/legacy-tokens).
  
  11. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/get-file-size-before-download.py) snippet will get the file size before downloading it. Run it like this `python snippet.py url`
  
