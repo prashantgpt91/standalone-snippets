@@ -2,7 +2,7 @@
 This repo will contain standalone snippets.
 
 
-> `Total count of snippets | 14`
+> `Total count of snippets | 15`
 
  1. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/1-gif-to-png.py) snippet takes a gif image as an input and return a png image as output.
  
@@ -33,7 +33,7 @@ This repo will contain standalone snippets.
  14. [This](https://raw.githubusercontent.com/x0v/standalone-snippets/master/14-fetch-aws-complete-biodata.py) will fetch complete details of your aws account in the form of json. To run the script, simply install `awscli` using `pip install awscli` in a virtualenv and run `aws configure`. To see the list of regions go [here](https://docs.aws.amazon.com/general/latest/gr/rande.html#apigateway_region). To get access key and access secret key go [here](https://console.aws.amazon.com/iam/home?region=us-east-2#/users), select the user against which has permission to access all services, issue a key against it and use in `aws configure` command.
 
 
-
+15. [This]() will drawo bounding boxe over an image in the format of x1,y1,width, height.
 
 
  
